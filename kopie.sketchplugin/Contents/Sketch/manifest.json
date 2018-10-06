@@ -1,0 +1,35 @@
+{
+  "name": "Kopie",
+  "description": "Sync your artboards to Kopie",
+  "author": "Kopie",
+  "email": "hello@kopie.io",
+  "homepage": "http://kopie.io",
+  "version": "2.0.1",
+  "identifier": "io.kopie.sketch",
+  "appcast": "https://kopie-sketch.s3.amazonaws.com/appcast.xml",
+  "compatibleVersion": 3,
+  "bundleVersion": 1,
+  "icon": "Icon.png",
+  "commands": [
+    {
+      "name": "Kopie",
+      "identifier": "open",
+      "script": "my-command.js",
+      "shortcut": "command alt k",
+      "handlers": {
+        "run": "onRun",
+        "actions": {
+          "SelectionChanged": "onSelectionChanged"
+        }
+      }
+    }
+  ],
+  "menu": {
+    "title": "Kopie",
+    "isRoot": true,
+    "items": [
+      "open"
+    ]
+  },
+  "disableCocoaScriptPreprocessor": true
+}
