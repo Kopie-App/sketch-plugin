@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Kopie</title>
+    <link>https://kopie-sketch.s3.amazonaws.com/appcast.xml</link>
+    <description>The copy editing tool for web and product
+    design</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>First auto-update plugin v1.0</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.0" />
+    </item>
+    <item>
+      <title>Version 1.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Testing auto-update feature.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.1" />
+    </item>
+    <item>
+      <title>Version 1.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Changed manifest author and name.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.2" />
+    </item>
+    <item>
+      <title>Version 1.3</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Only sync currently opened page.</li>
+              <li>Only sync selected artboards.</li>
+              <li>Made plugin more stable.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.3" />
+    </item>
+    <item>
+      <title>Version 1.4</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed auto-update feature.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.4" />
+    </item>
+    <item>
+      <title>Version 1.5</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed auto-update feature Part 2.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.5" />
+    </item>
+    <item>
+      <title>Version 1.6</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed auto-update feature Part 3.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.6" />
+    </item>
+    <item>
+      <title>Version 1.7</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Testing auto-update.</li>
+              <li>Changed menu name to Kopie.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.7" />
+    </item>
+    <item>
+      <title>Version 1.7.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed bug with overrides.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.7.1" />
+    </item>
+    <item>
+      <title>Version 1.7.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed selected artboards after login.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.7.2" />
+    </item>
+    <item>
+      <title>Version 1.7.3</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed symbols in libraries artboards not being hidden on sync.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.7.3" />
+    </item>
+    <item>
+      <title>Version 1.8</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Maintain sketch order of screens while syncing.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.8" />
+    </item>
+    <item>
+      <title>Version 1.8.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed issue with symbols not being synced.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.8.1" />
+    </item>
+    <item>
+      <title>Version 1.8.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added alert messages when document isn't selected.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.8.2" />
+    </item>
+    <item>
+      <title>Version 1.8.3</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added icon.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.8.3" />
+    </item>
+    <item>
+      <title>Version 1.9.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Ordering for text-view.</li>
+              <li>Better handling of inactive page.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.9.0" />
+    </item>
+    <item>
+      <title>Version 1.9.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Add alert when there are no artboards</li>
+              <li>Update 'No active document' copy.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.9.1" />
+    </item>
+    <item>
+      <title>Version 1.10.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added rotation support.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.10.0" />
+    </item>
+    <item>
+      <title>Version 1.11.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed rotation support.</li>
+              <li>Added transparency support.</li>
+              <li>Fixed auth bug.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.0" />
+    </item>
+    <item>
+      <title>Version 1.11.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Don't sync hidden layers.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.1" />
+    </item>
+    <item>
+      <title>Version 1.11.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Improved percentage indicator.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.2" />
+    </item>
+    <item>
+      <title>Version 1.11.3</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added support for kopie-lock groups.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.3" />
+    </item>
+    <item>
+      <title>Version 1.11.4</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added support for kopie-group groups.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.4" />
+    </item>
+    <item>
+      <title>Version 1.11.5</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added support for kopie-title groups.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.5" />
+    </item>
+    <item>
+      <title>Version 1.11.6</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added support for kopie-button groups.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.6" />
+    </item>
+    <item>
+      <title>Version 1.11.7</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Delete all textlayers from Kopie that are deleted in the artboard.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.7" />
+    </item>
+    <item>
+      <title>Version 1.11.8</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Don't update the copy from sketch anymore once it's synced.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.11.8" />
+    </item>
+    <item>
+      <title>Version 1.12.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Don't show success message when given an error.</li>
+              <li>Fixed regression that caused the artboards button to not show selected artboards anymore.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.12.0" />
+    </item>
+    <item>
+      <title>Version 1.12.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added google analytics.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.12.1" />
+    </item>
+    <item>
+      <title>Version 1.12.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Stay logged in.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.12.2" />
+    </item>
+    <item>
+      <title>Version 1.13.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Auto update projects list every 5 seconds.</li>
+              <li>Changed createdAt to updatedAt.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="1.13.0" />
+    </item>
+    <item>
+      <title>Version 2.0.0</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Support for sketch 52.</li>
+              <li>New feature: Statuses</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="2.0.0" />
+    </item>
+    <item>
+      <title>Version 2.0.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed symbolInstance behavior with updating the wrong copy.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="2.0.1" />
+    </item>
+  </channel>
+</rss>
