@@ -414,5 +414,17 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
       <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
       sparkle:version="2.0.1" />
     </item>
+    <item>
+      <title>Version 2.0.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Added timer to check copy updates more often.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="2.0.2" />
+    </item>
   </channel>
 </rss>
