@@ -450,5 +450,17 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
       <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
       sparkle:version="2.1.0" />
     </item>
+    <item>
+      <title>Version 2.1.1</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Refactored code to not use JSON.parse. Preventing errors with stringifying sketch objects.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="2.1.1" />
+    </item>
   </channel>
 </rss>
