@@ -786,7 +786,7 @@ var that=this;function __skpm_run(e,n){that.context=n;var t=function(e){var n={}
 /*!******************************!*\
   !*** ./resources/index.html ***!
   \******************************/
-/*! no static exports found */function(e,t){e.exports="file://"+n.plugin.urlForResourceNamed("_webpack_resources/19fedeba76924f7567cf71742c193679.html").path()},"./src/my-command.js":
+/*! no static exports found */function(e,t){e.exports="file://"+n.plugin.urlForResourceNamed("_webpack_resources/a1b4283605a38989c3d710f4a19367e8.html").path()},"./src/my-command.js":
 /*!***************************!*\
   !*** ./src/my-command.js ***!
   \***************************/
