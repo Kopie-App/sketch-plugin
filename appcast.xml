@@ -480,13 +480,24 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
       <description>
         <![CDATA[
             <ul>
-              <li>Remember selected project.</li>
-              <li>Updated copy.</li>
+              <li>Auth fix.</li>
             </ul>
           ]]>
 </description>
       <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
       sparkle:version="2.2.1" />
+    </item>
+    <item>
+      <title>Version 2.2.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed bug with symbols in libraries.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="2.2.2" />
     </item>
   </channel>
 </rss>
