@@ -4,7 +4,7 @@
   "author": "Kopie",
   "email": "hello@kopie.io",
   "homepage": "http://kopie.io",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "identifier": "io.kopie.sketch",
   "appcast": "https://kopie-sketch.s3.amazonaws.com/appcast.xml",
   "compatibleVersion": 3,
