@@ -538,5 +538,17 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
       <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
       sparkle:version="3.0.1" />
     </item>
+    <item>
+      <title>Version 3.0.2</title>
+      <description>
+        <![CDATA[
+            <ul>
+              <li>Fixed bug with Sketch 53.</li>
+            </ul>
+          ]]>
+</description>
+      <enclosure url="https://kopie-sketch.s3.amazonaws.com/kopie.sketchplugin.zip"
+      sparkle:version="3.0.2" />
+    </item>
   </channel>
 </rss>
