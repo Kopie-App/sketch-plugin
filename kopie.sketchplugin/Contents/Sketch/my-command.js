@@ -1158,7 +1158,7 @@ var that=this;function __skpm_run(e,t){that.context=t;var n=function(e){var t={}
 /*!******************************!*\
   !*** ./resources/index.html ***!
   \******************************/
-/*! no static exports found */function(e,n){e.exports="file://"+t.plugin.urlForResourceNamed("_webpack_resources/43c4779ee89701625ee0b4653fa1a36e.html").path()},"./src/my-command.js":
+/*! no static exports found */function(e,n){e.exports="file://"+t.plugin.urlForResourceNamed("_webpack_resources/080a1fafe767c460cfde6bc5ed4b015f.html").path()},"./src/my-command.js":
 /*!***************************!*\
   !*** ./src/my-command.js ***!
   \***************************/
